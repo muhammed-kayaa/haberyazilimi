@@ -1,0 +1,171 @@
+[
+  {
+    "name": "__cf_bm",
+    "value": "HRinOgLW0KtbsqinuZ5cePwAwffxEL6U769azkPJPkk-1766796732.001766-1.0.1.1-r.NxpmAh9639F.u1d7J57OT7Zuc6lpn01lCoZXRqKKmbwTrzd52w4k5hu3U3k3jb9so8Qo4h_Em2leTvYb0d_4GYEFMKidGblGVipLsflRmhpot1S0LzxO3q8TlVMKcT",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1766798532
+  },
+  {
+    "name": "__cuid",
+    "value": "0490766e93344d9f84da86fbb12e8f41",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax",
+    "expires": 1801355693
+  },
+  {
+    "name": "__ssid",
+    "value": "87e601ef3e2c03b0f7af016f10153c1",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax",
+    "expires": 1793717763
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.1432365969.1758744471",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax",
+    "expires": 1793717697
+  },
+  {
+    "name": "_ga_BT3WQMJWD7",
+    "value": "GS2.1.s1759157697$o2$g1$t1759158625$j60$l0$h581094873",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax",
+    "expires": 1793718625
+  },
+  {
+    "name": "auth_token",
+    "value": "20ea8d97631073337767e462259f2d1c89255b91",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355254
+  },
+  {
+    "name": "ct0",
+    "value": "b43eec2e0936dbf4165639aab62e4d18daa4903344942e8f06ef2f56ea1d35f0122f8d65d9e34a7c68b2a3ad88be1ff984c77e4e4ff64435dcaa64a9698e88a748eb853474d1ec39c9d9ebcfd688a4b4",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355254
+  },
+  {
+    "name": "dnt",
+    "value": "1",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355198
+  },
+  {
+    "name": "gt",
+    "value": "2004710480082808873",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1766804199
+  },
+  {
+    "name": "guest_id",
+    "value": "v1%3A176679519880712056",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355198
+  },
+  {
+    "name": "guest_id_ads",
+    "value": "v1%3A176679519880712056",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355691
+  },
+  {
+    "name": "guest_id_marketing",
+    "value": "v1%3A176679519880712056",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355691
+  },
+  {
+    "name": "kdt",
+    "value": "z9b8ONs0Ja3pVyOl993LOhWUhySXRw4bWQrBbTYe",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355254
+  },
+  {
+    "name": "personalization_id",
+    "value": "\"v1_UJP8H6b/8orprb8zMIKYuw==\"",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1801355199
+  },
+  {
+    "name": "twid",
+    "value": "u%3D2004710678649831424",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1798331699
+  },
+  {
+    "name": "g_state",
+    "value": "{\"i_l\":0,\"i_ll\":1766795200119,\"i_b\":\"Xfi6VjXdPYZ4yswH+CI7DrctERCfoBlh9e3z3wVmHhE\",\"i_e\":{\"enable_itp_optimization\":0}}",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax",
+    "expires": 1782347200
+  },
+  {
+    "name": "lang",
+    "value": "en",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
